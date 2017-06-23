@@ -70,8 +70,8 @@ Introdution of my work and daily life
 - node
 - javascript
 - php
-- web
-- html5
+- wordpress
+- blog
 - css
 - api
 - jquery
