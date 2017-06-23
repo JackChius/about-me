@@ -13,7 +13,7 @@ Introdution of my work and daily life
 - 本科/中山大学新华学院信息科学学院 
 - 技术博客：http://chengfeng66.win
 - Github: http://github.com/jackchius
-- 期望职位：Web前端开发(JS方向)/Node.js开发
+- 期望职位：Web前端开发(JS方向)/PHP网站开发
 
 ------
 
@@ -43,6 +43,8 @@ Introdution of my work and daily life
   使用Cnode社区官方提供的API作为资讯内容来源，采用Vue.js进行页面渲染，和NPM的Axios客户端完成Ajax请求。同时页面表现使用CSS3构造，使用scss预编译技术，编译软件使用koala。页面路由方面由Location等原生html对象实现。
 - [个人博客搭建 ]() :
   使用Node.js博客平台HEXO搭建的个人博客，将用于记录Web开发的日常心得，开发中的灵感与一些踩坑过程。
+- [PHP本地文件存储简易图库]() :
+图库包括相册首页，前端图片上传页面，后端上传处理部分，项目运用到表单提交，PHP文件系统模块，切割数组，接收前端传来的页面参数进行分页等功能。
 - [基于jQuery+bootstrap+php的地方旅游信息网站 ]() :
   该项目为毕业论文研究课题项目，目标是一个小型资讯门户网站，展示当前热门旅游城市景点，并提供图片上传，景点评分与留言等交互功能，使用响应式设计即移动端优先的理念开发，目前可在多端访问，另外本项目尚需完善，后期会侧重后台管理等功能的开发。 
 
@@ -56,17 +58,18 @@ Introdution of my work and daily life
 
 以下为我接触过且相对擅长的技能或应用场景
 
-- Web开发：HTML/CSS/Javascript
-- Web框架：Bootstrap/Jquery/Vue
-- 前端工具：SCSS/Webstorm/Vscode
-- 云和开放平台：SAE/腾讯云/阿里云 云主机/静态网站部署
+- Web开发：HTML/CSS/Javascript/PHP
+- Web前端：Bootstrap/Jquery/Vue
+- PHP：Wordpress/Dedecms/PHPWeb
+- 开发工具：PHPStorm/Vscode/Sublime Text/Koala
+- 云平台：SAE/腾讯云/阿里云 云主机/静态网站部署
 
 ## 参考技能关键字
 
 - js
 - node
 - javascript
-- linux
+- php
 - web
 - html5
 - css
