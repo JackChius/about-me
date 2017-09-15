@@ -60,7 +60,7 @@ Introdution of my work and daily life
 
 - Web开发：HTML/CSS/Javascript/PHP
 - Web前端：Bootstrap/Jquery/Vue
-- PHP：Wordpress/Dedecms/PHPWeb
+- PHP：Wordpress/Dedecms/PHPWeb/CI
 - 开发工具：PHPStorm/Vscode/Sublime Text/Koala
 - 云平台：SAE/腾讯云/阿里云 云主机/静态网站部署
 
