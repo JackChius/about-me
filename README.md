@@ -36,7 +36,7 @@ Introdution of my work and daily life
 
 ------
 
-# 开源项目和作品
+# 主要开源项目和作品
 
 - [ Vue2.3+Elementui+Webpack 构建的技术资讯项目 ]() : 
   使用Cnode社区官方提供的API作为资讯内容来源，采用Vue.js进行页面渲染，组件式开发。同时页面表现使用CSS3构造，使用scss预编译技术，编译软件使用koala。页面路由方面由Location等原生html对象实现（后期改用Vue-router）。
