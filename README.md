@@ -1,4 +1,4 @@
-# about-me
+# About-me
 Introdution of my work and daily life
 # 联系方式
 
@@ -10,9 +10,9 @@ Introdution of my work and daily life
 
 # 个人信息
 
-- 本科/中山大学新华学院信息科学院 
+- 赵剑辉/本科/中山大学新华学院信息科学院 
 - Github: http://github.com/jackchius
-- 期望职位：Web前端开发(JS方向)/Javascript/Node.js开发
+- 期望职位：Web前端开发(JS)/网站开发维护/Node.js/数据可视化方向
 - 部分作品集: http://kee.free2me.top
 ------
 
@@ -65,19 +65,19 @@ Introdution of my work and daily life
 
 ## 参考技能关键字
 
-- js
-- node
-- javascript
+- ES5/6
+- Node
+- Javascript
 - php
-- wordpress
-- blog
-- css
-- api
-- jquery
-- html
-- css3
-- ajax
-- json
+- Wordpress
+- Blog
+- Vue
+- Api
+- Ubuntu
+- Html
+- CSS3
+- Ajax
+- Nginx
 
 ------
 
