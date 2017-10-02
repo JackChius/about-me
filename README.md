@@ -10,7 +10,7 @@ Introdution of my work and daily life
 
 # 个人信息
 
-- 赵剑辉/本科学士/中山大学新华学院信息科学院 
+- 赵剑辉/本科/学士/中山大学新华学院信息科学院/电子信息科学与技术专业 
 - Github: http://github.com/jackchius
 - 期望职位：Web前端开发(JS)/网站开发维护/Node.js/数据可视化方向
 - 部分作品集: http://kee.free2me.top
